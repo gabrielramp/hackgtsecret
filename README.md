@@ -1,4 +1,4 @@
-```
+```stl
 solid basketball
   facet normal 0.000000e+000 1.000000e+000 0.000000e+000
     outer loop
