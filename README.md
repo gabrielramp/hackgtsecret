@@ -1,3 +1,5 @@
+# This project was made for Georgia Tech's HackGT X Hackthon in under 36 hours, and the backend is no longer active! You can view a demo of this project [here](https://www.youtube.com/watch?v=nMzzR-xbOrM), and its DevPost [here](https://devpost.com/software/3dreadme?ref_content=user-portfolio&ref_feature=in_progress)!
+
 Prompt: a spaceship 
 ```stl
 solid 
